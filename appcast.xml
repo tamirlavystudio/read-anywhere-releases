@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Read Anywhere</title>
+    <item>
+      <title>Version 1.1</title>
+      <pubDate>Fri, 30 Oct 2026 13:01:43 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The Microsoft voice is now reliable: when Microsoft's server is busy, the app retries instead of switching to the robotic voice or stopping mid-read.</p>
+<p>New: Kokoro, a natural voice that runs on your Mac (Settings > Kokoro). English only; Hebrew stays on the Microsoft voice. One-time ~465 MB download.</p>
+<p>New: Volume slider in Settings, and all voices are now louder and play at the same level.</p>]]></description>
+      <enclosure url="https://github.com/tamirlavystudio/read-anywhere-releases/releases/download/v1.1/ReadAnywhere-1.1.dmg"
+                 type="application/octet-stream" sparkle:edSignature="Q+/iaXHnf5NgYyJQ+wtKhhBVlfzwZmIcKv6oZgF83ulE01PGrn1rVob61kCq6YR0NPoDR5vPjS5jotv8npu/AA==" length="25531900" />
+    </item>
+  </channel>
+</rss>
